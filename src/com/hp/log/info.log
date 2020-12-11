@@ -1,0 +1,8 @@
+2020-12-11 16:02:21 下午 [Thread: main][ Class:org.springframework.context.support.ClassPathXmlApplicationContext >> Method: org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:510) ]
+INFO:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@47fd17e3: startup date [Fri Dec 11 16:02:21 CST 2020]; root of context hierarchy
+2020-12-11 16:02:21 下午 [Thread: main][ Class:org.springframework.beans.factory.xml.XmlBeanDefinitionReader >> Method: org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) ]
+INFO:Loading XML bean definitions from class path resource [applicationContext.xml]
+2020-12-11 16:04:04 下午 [Thread: main][ Class:org.springframework.context.support.ClassPathXmlApplicationContext >> Method: org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:510) ]
+INFO:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@233c0b17: startup date [Fri Dec 11 16:04:04 CST 2020]; root of context hierarchy
+2020-12-11 16:04:04 下午 [Thread: main][ Class:org.springframework.beans.factory.xml.XmlBeanDefinitionReader >> Method: org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) ]
+INFO:Loading XML bean definitions from class path resource [applicationContext.xml]
